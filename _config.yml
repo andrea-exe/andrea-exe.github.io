@@ -20,27 +20,22 @@ timezone: America/Mexico_city
 
 title: Osmosis DNA                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Base de datos de Osmosis   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  El pasado en nuestro ADN
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://andrea-exe.github.io'
 
 github:
-  username: github_username             # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
+  username: strekozov             # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Cylance Solar
+  email: cylanc@pm.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
@@ -72,7 +67,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -82,7 +77,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://i.postimg.cc/MZbb98K4/apple-touch-icon.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
